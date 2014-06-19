@@ -1,0 +1,29 @@
+{
+  "name": "fracker",
+  "description": "Simple on-access command launcher",
+  "version": "0.0.1",
+  "author": {
+    "name": "Jan Votava",
+    "email": "votava@deployment.cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/cyner/fracker.git"
+  },
+  "keywords": [
+    "command",
+    "launcher"
+  ],
+  "dependencies": {
+    "nconf": "^0.6.9"
+  },
+  "devDependencies": {},
+  "main": "./lib/fracker",
+  "bin": {
+    "fracker": "./bin/fracker"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/cyner/fracker"
+}
