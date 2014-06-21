@@ -1,7 +1,7 @@
 {
   "name": "fracker",
   "description": "Simple on-access command launcher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Jan Votava",
     "email": "votava@deployment.cz"
@@ -15,7 +15,6 @@
     "launcher"
   ],
   "dependencies": {
-    "nconf": "^0.6.9"
   },
   "devDependencies": {},
   "main": "./lib/fracker",
