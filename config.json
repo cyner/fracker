@@ -1,8 +1,0 @@
-[
-  {
-    "port": 7400,
-    "map_to": 6669,
-    "ssh_to": "elon@xfire",
-    "destination": "localhost:27017"
-  }
-]
