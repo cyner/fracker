@@ -15,6 +15,7 @@
     "launcher"
   ],
   "dependencies": {
+    "native-dns": "^0.6.1"
   },
   "devDependencies": {},
   "main": "./lib/fracker",
